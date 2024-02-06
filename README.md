@@ -1,2 +1,2 @@
-# digital-dose
+# Digital Dose
 Blog for tech updates.
